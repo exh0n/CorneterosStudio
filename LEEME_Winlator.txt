@@ -1,0 +1,9 @@
+Corneteros Studio 2.1.0 — versión portátil para Winlator x64
+
+Instalación:
+1. Extraé el ZIP completo en una carpeta dentro del contenedor de Winlator.
+2. Abrí Descargador2.exe desde esa carpeta. Esta compilación usa Python 3.14 x64 para evitar el error "Invalid format string" de versiones anteriores bajo Wine/Winlator.
+3. Conservá juntos Descargador2.exe, _internal y ffmpeg; no muevas solo el EXE.
+
+Winlator usa el paquete portátil y no ejecuta el actualizador del instalador de Windows. Para actualizarlo, reemplazá la carpeta completa por el contenido del ZIP más nuevo.
+

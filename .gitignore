@@ -1,0 +1,18 @@
+# Entornos de Python y resultados de compilación
+.venv*/
+__pycache__/
+*.py[cod]
+build/
+build_tcl_runtime/
+dist/
+*.spec.bak
+
+# Paquetes binarios locales; se distribuyen como GitHub Release assets
+ffmpeg/
+CorneterosStudio_Winlator_x64.zip
+installer/*.exe
+
+# Archivos locales de desarrollo
+.env
+.env.*
+*.log

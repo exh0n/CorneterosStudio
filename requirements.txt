@@ -1,0 +1,9 @@
+customtkinter
+yt-dlp[default]
+yt-dlp-ejs
+numpy
+soundfile
+scipy
+sounddevice
+pyinstaller
+Pillow

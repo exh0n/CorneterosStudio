@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Corneteros Studio">
+  <rect x="12" y="12" width="488" height="488" rx="112" fill="#0b0d12" stroke="#343840" stroke-width="4"/>
+  <path d="M174 325v-79c0-48 36-84 82-84s82 36 82 84v79l-27-19-27 20-28-20-28 20-27-20z" fill="#eceef3"/>
+  <path d="M218 232v53m25-72v91m26-79v68m25-88v108" fill="none" stroke="#262a33" stroke-linecap="round" stroke-width="13"/>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#e64f61" stroke-linecap="round" stroke-width="22"/>
+  <path d="M128 384 384 128" fill="none" stroke="#e64f61" stroke-linecap="round" stroke-width="25"/>
+</svg>
