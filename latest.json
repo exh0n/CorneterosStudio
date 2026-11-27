@@ -1,9 +1,9 @@
 {
   "version": "2.2.0",
   "installer_url": "https://github.com/exh0n/CorneterosStudio/releases/download/v2.2.0/Instalador_Corneteros_Studio_2.2.0.exe",
-  "installer_sha256": "ee8bfeaf002b678859ae836b99e3c87886b5a4142f2ac2d59082b09ce0b6f1c3",
-  "sha256": "ee8bfeaf002b678859ae836b99e3c87886b5a4142f2ac2d59082b09ce0b6f1c3",
+  "installer_sha256": "ceb2b406406e04b34276a0415a39795916a839eb6aa14d00b1824e5d92c44db1",
+  "sha256": "ceb2b406406e04b34276a0415a39795916a839eb6aa14d00b1824e5d92c44db1",
   "winlator_url": "https://github.com/exh0n/CorneterosStudio/releases/download/v2.2.0/CorneterosStudio_Winlator_x64.zip",
-  "winlator_sha256": "cb62179771448fa89bd09d1d2dad3186afb3c6dd2a085caec5a7c5f47931b62c",
-  "notes": "Descargas adaptativas para 4 GB de RAM, vistas previas más rápidas, actualizador automático para Windows y Winlator, instalador oscuro."
+  "winlator_sha256": "ee99cf93389ca3f8cb49f52fe51d006a07b632fdfebc808dcebf56ff413fb54c",
+  "notes": "Mejoras de descarga y vista previa. Actualizador automático para Windows y Winlator."
 }
